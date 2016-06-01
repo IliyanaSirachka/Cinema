@@ -1,0 +1,6 @@
+D:\DOC\books\Basic\Complex-Conditions\Cinema\bin\Debug\Cinema.exe
+D:\DOC\books\Basic\Complex-Conditions\Cinema\bin\Debug\Cinema.pdb
+D:\DOC\books\Basic\Complex-Conditions\Cinema\obj\Debug\Cinema.exe
+D:\DOC\books\Basic\Complex-Conditions\Cinema\obj\Debug\Cinema.pdb
+E:\SoftUniProjects\Complex-Conditions\Cinema\obj\Debug\Cinema.exe
+E:\SoftUniProjects\Complex-Conditions\Cinema\obj\Debug\Cinema.pdb
